@@ -27,10 +27,10 @@ No configuration is required aside from recreating the virtual environment.
 
 ### Executing program
 
-The application can be run locally through the command line. With the virtual environment activated, navigate to the `baguette/app/` directory and execute the following command: 
-```
-python train_model.py
-```
+The application can be run locally through the command line. With the virtual environment activated, navigate to the `baguette/app/` directory and execute one of the following commands: 
+
+- `python preprocess_data.py`
+- `python train_model.py`
 
 ### Testing
 
