@@ -1,12 +1,12 @@
 # Baguette
 
-A deep transformer-based English-French translation application.
+A deep, transformer-based English-French translation application.
 
 ## Description
 
-I have always loved French.  Although I grew up speaking only English, I had the opportunity to take French classes throughout grade school and fell in love with the language. I began to study French on my own after finishing my undergraduate degree in Chemical Engineering and eventually became fluent enough to move to Quebec; I lived completely immersed in the language for four years while pursuing my Master's degree and working full-time afterwards. 
+I have always loved French.  Although I grew up in an English-speaking family, I had the opportunity to take French classes throughout grade school and immediately took a liking to the language. I began to study French on my own after finishing my undergraduate degree and eventually became fluent enough to move to Quebec; I lived completely immersed in French for four years while pursuing my Master's degree and working full-time afterwards. 
 
-Throughout my journey to fluency I often longed for an accurate French translator that was not prone to the numerous flaws of the statical machine translation models used during the 1990's and 2000's. Thanks to tremendous advances in NLP, the advent of deep learning, and exponential increases in computing power, such applications are now possible. The objective of this project is to create an English-to-French translation model from scratch using the transformer architecture described in [Attention Is All You Need](https://arxiv.org/abs/1706.03762).
+Throughout my journey to fluency I often longed for an accurate French translator that was not prone to the numerous flaws of the statical machine translation models that were prevalent during the 1990's and 2000's. Thanks to tremendous advances in NLP, the advent of deep learning, and exponential increases in computing power, the translation applications of my dreams are now possible. The objective of this project is to create an English-to-French translation model from scratch using the transformer architecture described in [Attention Is All You Need](https://arxiv.org/abs/1706.03762).
 
 The project contains several key components:
 
